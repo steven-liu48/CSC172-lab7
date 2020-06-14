@@ -2,11 +2,9 @@
 //Lab Partners:
 
 //Xiaoxiang "Steven" Liu
-//xliu102@u.rochester.edu
 //MW 6:15PM - 7:30PM
 
 //Grant Yap
-//gyap@u.rochester.edu
 //MW 2:00 - 3:15PM
 
 public class Heap {
